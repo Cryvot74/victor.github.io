@@ -1,2 +1,5 @@
-# victor.github.io
-My portfolio at GitHub Pages
+### My portfolio at GitHub
+
+Mi portafolio o resumen de mi CV 
+para encontrar trabajo
+
