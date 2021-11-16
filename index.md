@@ -1,4 +1,4 @@
-### Welcome to my personal web site
+# Welcome to my personal web site
 
 You can use the [editor on GitHub](https://github.com/vimweb/cryvot74.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
