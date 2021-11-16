@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Experiencia Laboral
 
-### [CITD](https//:www.citd.eu)
+### [CITD](https://www.citd.eu)
 Junio 2005 a Febrero 2018:
 
 - Diseño mecanico y electrico de instalaciones elecricas en aviones de transporte militar
