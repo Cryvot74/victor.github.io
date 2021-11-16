@@ -1,10 +1,15 @@
-# Welcome to my personal web site
+# Bienvenido a mi web personal
 
 You can use the [editor on GitHub](https://github.com/vimweb/cryvot74.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## Markdown
+## Experiencia Laboral
+
+## Formacion academica
+
+- Tecnico Especialista en Delineacion en Edificios y Obras
+- Ingeniero Tecnico Aeronautico, especialidad aeromotores
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
