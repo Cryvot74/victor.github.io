@@ -6,6 +6,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Experiencia Laboral
 
+### CITD
+Junio 2005 a Febrero 2018:
+
+- Diseño mecanico y electrico de instalaciones elecricas en aviones de transporte militar
+
 ## Formacion academica
 
 - Tecnico Especialista en Delineacion en Edificios y Obras
