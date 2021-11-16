@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Experiencia Laboral
 
-### CITD
+### [CITD](https//:www.citd.eu)
 Junio 2005 a Febrero 2018:
 
 - Diseño mecanico y electrico de instalaciones elecricas en aviones de transporte militar
@@ -16,22 +16,7 @@ Junio 2005 a Febrero 2018:
 - Tecnico Especialista en Delineacion en Edificios y Obras
 - Ingeniero Tecnico Aeronautico, especialidad aeromotores
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
